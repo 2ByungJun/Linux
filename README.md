@@ -1,5 +1,5 @@
 ## Linux Study
-### update : 2020.04.07
+### update : 2020.04.08
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -17,3 +17,7 @@ Velog Link : https://velog.io/@ieed0205
 * Linux_4 : Linux 커맨드 사용(SSH, Putty, 절대경로, 상대경로)
 
     (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-4-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%82%AC%EC%9A%A9LEEToday)
+
+* Linux_5 : Linux 파일과 프로세스(redirection, 소유권)
+
+    (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-5-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4LEEToday)
