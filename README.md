@@ -1,5 +1,5 @@
 ## Linux Study
-### update : 2020.04.08
+### update : 2020.04.09
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -21,3 +21,7 @@ Velog Link : https://velog.io/@ieed0205
 * Linux_5 : Linux 파일과 프로세스(redirection, 소유권)
 
     (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-5-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4LEEToday)
+
+* Linux_6 : Linux 문서편집기와 환경변수
+
+    (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-6-%EB%AC%B8%EC%84%9C%ED%8E%B8%EC%A7%91%EA%B8%B0-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98LEEToday)
