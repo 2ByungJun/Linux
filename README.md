@@ -1,5 +1,5 @@
 ## Linux Study
-### update : 2020.04.10
+### update : 2020.04.11
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -29,3 +29,7 @@ Velog Link : https://velog.io/@ieed0205
 * Linux_7 : Linux 각종 서버 프로그램 이해
 
     (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-7-%EB%AC%B8%EC%84%9C%ED%8E%B8%EC%A7%91%EA%B8%B0-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98LEEToday)
+
+* Linux_8 : Linux 별도 프로그램 설치(wget, FTP)
+
+    (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-7-%EB%B3%84%EB%8F%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98LEEToday)
