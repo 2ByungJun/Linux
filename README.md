@@ -1,5 +1,5 @@
 ## Linux Study
-### update : 2020.04.11
+### update : 2020.04.12
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -33,3 +33,7 @@ Velog Link : https://velog.io/@ieed0205
 * Linux_8 : Linux 별도 프로그램 설치(wget, FTP)
 
     (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-7-%EB%B3%84%EB%8F%84-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98LEEToday)
+
+* Linux_9 : Linux 다중 터미널 환경 사용하기(screen, &)
+
+    (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-9-%EB%8B%A4%EC%A4%91-%ED%84%B0%EB%AF%B8%EB%84%90-%ED%99%98%EA%B2%BD-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0LEEToday)
