@@ -1,5 +1,5 @@
 ## Linux Study
-### update : 2020.04.12
+### Final update : 2020.04.13
 
 Velog Link : https://velog.io/@ieed0205
 
@@ -37,3 +37,7 @@ Velog Link : https://velog.io/@ieed0205
 * Linux_9 : Linux 다중 터미널 환경 사용하기(screen, &)
 
     (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-9-%EB%8B%A4%EC%A4%91-%ED%84%B0%EB%AF%B8%EB%84%90-%ED%99%98%EA%B2%BD-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0LEEToday)
+
+* Linux_10 : Linux 로그와 반복업무의 자동화(cron, crontab)
+
+    (https://velog.io/@ieed0205/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-10-%EB%A1%9C%EA%B7%B8%EA%B4%80%EB%A6%AC-%EC%9E%90%EB%8F%99%ED%99%94LEEToday)
