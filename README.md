@@ -1,5 +1,5 @@
 ## Linux Study
-### Final update : 2020.04.13
+### Final update : 2020.04.03 ~ 2020.04.13
 
 Velog Link : https://velog.io/@ieed0205
 
